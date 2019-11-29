@@ -1,0 +1,228 @@
+Audits are carried out on an annual
+How often these are conducted basis for residents maintaining
+their home with no tenancy issues
+They may be carried out more
+Is there anything in particular that frequently if there is a risk to the
+triggers a tenancy audit if it's not tenancy i.e. a tenancy breach or
+regularly conducted tenancy support required or at a
+residents request.
+That tenancy and household details
+What you require to know as part of a are up to date and accurate, to
+tenancy audit 
+check tenant ID and 
+identify any
+outstanding property repair issues
+A telephone call cannot provide all
+What are the benefits of a tenancy the information required of an
+audit vs a telephone call to discuss audit. For example: we need to
+issues/concerns with tenants inspect the property, ensure we are
+(Therefore saving time/money) satisfied that the tenancy agreement
+is being adhered to and identify any
+support needs.
+Wherever possible appointments will
+be arranged for a convenient date
+What arrangements are made for those and time, for example when a tenant
+tenants who potentially work Monday may have time off from work. Where
+to Friday during office hours when a this is not possible the team will
+visit would be required look into the possibility of
+additional “out of hours
+appointments”
+
+have not reported a repair in the last two years
+refused access for decent homes work 
+refused access for gas safety safety checks
+have rent accounts more than £1,000 in credit.
+Regular vandalism to communal door entry systems
+
+One will be a document with your photograph such as:
+• Your current passport
+• Your photo driving license or your bus pass
+• Your citizen photo ID card
+In addition, proof that you live at the property for example:
+• A recent bank statement or
+• A recent utility bil
+
+We will look at both the inside and outside of your home (such as gardens and sheds) and take some photographs. This means that we have a record of any special features such as adaptations. Customers are responsible for reporting any repairs or improvements that are needed in their homes.
+
+We will make sure our information on you and who lives with you is up to date, including any emergency contact information, and we will ask to see your identification which we will photograph. If this I.D. doesn’t have a photograph on it, we may use this opportunity to take a photo of you as well for future reference.
+
+We will also chat to you about services that we or others may offer, which may be relevant to your circumstances, such as practical or financial help. 
+
+We will ask you if you would like to be more involved in helping shape the future of Red Kite.
+
+We will make sure you have an opportunity to ask us any questions you may have about your tenancy and circumstances as well.
+
+We will also check your fire 
+
+Tenancy Details
+Joint, Tenancy Type, Hosuing Product
+
+Household Details
+
+Occupied
+
+Right to rent check (Knowledge Article)
+
+HouseHold Details as at Audit
+Full Name, DOB, Ethnic Origin, Religion, Nationalitty, Language Gender, Sexual Orientation, Email Address, Telephone Number, Dissability, Relationshiop to main tenant
+
+Household Tenancy Support Needs
+
+Required Aids and Adaptations (inc scooter storage)
+
+Property Condition
+Internal/External, Location, Issue
+
+Health & Safety
+
+Repairs
+cases Active + new
+
+Notices and Warnings
+
+Rent Account 
+Balance and Transactions
+
+Tenant Involvement
+
+Cross Selling
+
+Any other observations and concerns
+
+enhance the HSUK solution to include the recording of Leads and related information. 
+These Lead enquiries are from a number of channels which include: 
+
+Facebook microsites 
+
+Share To Buy 
+
+nhgsales.com 
+
+Other Microsites 
+
+Zoopla portal 
+
+Telephone Calls 
+
+Home for Londoners 
+
+Estate Agents 
+
+Property Booking 
+
+Manage Sales with an allocations policy
+
+Financial Assessment
+
+Application
+Product interests
+Enquiries
+Viewings
+Reservation
+Offer
+Instruct Solicitors
+Survey
+Complete
+
+review marketting WF
+
+Property Search 
+
+The system will: 
+
+Provide a property search capability and will use the following key fields as search criteria: property type, Max Selling Price, Product Type, Location, Max Bedrooms, Min Bathrooms, Garden, Parking 
+
+Produce a Search Results View displaying the following key information: A Property: Bath, Beds, Property Type, Release Price, Plot #, plot size, Development 
+
+Express An Interest 
+
+ 
+
+Enquiry 
+
+Have a facility to create lead enquiries.  Key information: P 
+
+Property type 
+
+1bedroom (Yes/No), 2bedroom (Yes/No), 3bedroom (Yes/No), 4bedroom (Yes/No), 5plusbedroom(Yes/No) (Yes/No), balcony (Yes/No), garden (Yes/No), boroughofwork(lookup), boroughofresidence(lookup), propertytype (optionset) 
+
+Person 
+
+Name, Correspondence Address, Email, Landline, mobilephone, contact preferences, employmentstatus(optionset), grossannualincome(Currency), totaldeposit(Currency), ownerofanotherproperty(Yes/No), leadsource(optionset), description, product1(loockup), product2(lookup) 
+
+Sales Property Interests: Scheme, Property, Apply 
+
+Product, Property, Application Status 
+
+Events & Viewings 
+
+Have a facility to log an event for a Project 
+
+Have the facility to auto create viewing slots 
+
+viewingslot: Regarding, Attendance Status, Event, Lead, Contact, Activity Status, Start, End, Duration, Lead Officer, expressed Interest, Affordability Decision 
+
+Reservation 
+
+Have the  facility to electronically take a reservation 
+
+Book an IFA assessment 
+
+Drop outs and record the reason  
+
+ 
+
+Have the capability to auto create Lead enquiries from a number of electronic channels which include: 
+
+Zoopla portal 
+
+Share To Buy 
+
+Home for Londoners 
+
+Other Microsites 
+
+Property Booking 
+
+Estate Agents 
+
+ 
+
+ 
+
+ 
+
+Have the capability to associate enquires to launched and unlaunched schemes 
+
+Auto qualify Shared Ownership applications 
+
+Have the capability to log Sales products 
+
+Lead Scoring – based on the interactions 
+
+ 
+
+Sale: Independent financial advisor 
+
+Campaigns 
+
+Developments 
+
+Plots 
+
+Sale Property?? 
+
+Products 
+
+Create Events 
+
+Book Viewings 
+
+Make Reservations 
+
+Sale record with Stages 
+
+Property Search 
+
+Partner Portal For Estate Agents 
+
